@@ -1,0 +1,75 @@
+# -------------------------------
+# Python cache & compiled files
+# -------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------------
+# Virtual environments
+# -------------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# -------------------------------
+# Jupyter Notebook
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# Streamlit cache
+# -------------------------------
+.streamlit/
+
+# -------------------------------
+# OS-specific files
+# -------------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------------
+# IDE / Editor files
+# -------------------------------
+.vscode/
+.idea/
+*.iml
+
+# -------------------------------
+# Logs
+# -------------------------------
+*.log
+
+# -------------------------------
+# Model & ML artifacts (IMPORTANT)
+# Uncomment if you do NOT want to commit trained models
+# -------------------------------
+# *.pkl
+# *.joblib
+
+# -------------------------------
+# Data files
+# Uncomment if raw data should not be pushed
+# -------------------------------
+# *.csv
+# data/
+# datasets/
+
+# -------------------------------
+# Web scraping temporary files
+# -------------------------------
+*.html
+*.json
+
+# -------------------------------
+# Environment variables
+# -------------------------------
+.env
+.env.*
+
+# -------------------------------
+# Cache / temp
+# -------------------------------
+.cache/
+.tmp/
