@@ -59,9 +59,9 @@ Feature Extraction → Model Training → Evaluation → Deployment
 | Category | Technologies |
 |----------|-------------|
 | **Language** | Python 3.8+ |
-| **Web Scraping** | Selenium, BeautifulSoup |
+| **Web Scraping** | Selenium |
 | **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn, TF-IDF Vectorizer |
+| **Machine Learning** | Scikit-learn |
 | **Model Persistence** | Joblib |
 | **Notebook** | Jupyter Notebook |
 | **Web Interface** | Streamlit |
@@ -198,3 +198,4 @@ Developed as an educational exercise to apply data analysis and machine learning
 ---
 
 *Made with ❤️ for learning and education*
+
